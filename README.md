@@ -9,8 +9,7 @@ Abordagem proativa para resolver desafios, mantendo-se atualizado com as última
 Pessoa de boa índole, dedicada, comprometida, esforçada e sempre em busca de evolução profissional.
 Principais ferramentas: HTML | CSS | JavaScript | Jquery | Bootstrap
 
-<!-- Gráfico de Contribuição -->
-![Your Contribution Graph](https://github.com/gabrieltfd2)
+
 
 
 
