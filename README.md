@@ -1,4 +1,4 @@
-### Olá 👋
+## Olá eu sou o Gabriel Trindade
 
 
 ###### Sobre o Gabriel
@@ -9,7 +9,9 @@ Abordagem proativa para resolver desafios, mantendo-se atualizado com as última
 Pessoa de boa índole, dedicada, comprometida, esforçada e sempre em busca de evolução profissional.
 Principais ferramentas: HTML | CSS | JavaScript | Jquery | Bootstrap
 
+### Detalhes
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogithub1406&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
