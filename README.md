@@ -14,4 +14,6 @@ Principais ferramentas: HTML | CSS | JavaScript | Jquery | Bootstrap
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltfd2&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Linguagens utilizadas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltfd2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
