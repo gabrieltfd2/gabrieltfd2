@@ -9,6 +9,8 @@ Abordagem proativa para resolver desafios, mantendo-se atualizado com as última
 Pessoa de boa índole, dedicada, comprometida, esforçada e sempre em busca de evolução profissional.
 Principais ferramentas: HTML | CSS | JavaScript | Jquery | Bootstrap
 
-### Detalhes
+<!-- Gráfico de Contribuição -->
+![Your Contribution Graph](https://github.com/gabrieltfd2)
 
-[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltfd2&showicons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
