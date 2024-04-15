@@ -24,6 +24,8 @@ Principais ferramentas: HTML | CSS | JavaScript | Jquery | Bootstrap
 </div>
 
 
+
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltfd2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
