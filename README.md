@@ -25,6 +25,7 @@ Principais ferramentas: HTML | CSS | JavaScript | Jquery | Bootstrap
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/800px-LESS_Logo.svg.png">
+  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/sass-stickers-adesivo.png">
 </div>
 
 
